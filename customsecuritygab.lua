@@ -70,7 +70,7 @@ function uninstallSubCommand()
             "^3[securitygab.nl]^0 Resources (" ..
                 resources[1] .. "/" .. resources[2] .. " succesvol). " .. resources[3] .. " overgeslagen."
         )
-        print("^3[fiveguard.net]^0 Herstart uw server!!!")
+        print("^3[securitygab.nl]^0 Herstart uw server!!!")
         resources = nil
 
         return
