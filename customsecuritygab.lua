@@ -1,7 +1,6 @@
 local manifest = "fxmanifest"
 
--- todo: logging function
--- todo: this makes no sense
+-- Ik geef geen fuck, dit blijft mijn code muahah
 local resources = nil
 local script = nil
 
